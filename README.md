@@ -1,6 +1,11 @@
 # Brukerveiledning for SARTopo og CalTopo i norsk redningstjeneste
 ## Innledning
 ## SARTopo
+### Kart
+#### Dele kart med andre
+Kart i SARTopo kan deles ved å bare gi nettstedsadressen (URL) til de som trenger kartet. Dersom man også ønsker å gi ut skrivetilgang, slik at andre kan bidra eller spore i kartet, må du også angi ett passord under Manage this map.
+#### Delta i andres kart
+For å åpne andre kart, åpner du bare kartet du har mottat som URL. Dersom du skal åpne kartet i CalTopo <FIXME>
 ## CalTopo
 Denne guidene er ment til og gi en introduksjon til SARTopo, ALLE som deltar på SOR
 oppdrag oppfordres til og delta på Korpskveld 22.01.2020 uavhengig av hvor mye du har
