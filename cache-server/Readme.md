@@ -1,9 +1,6 @@
-```
-<details> 
-<summary></summary>
-custom_mark10
-  digraph G {
-    size ="4,4";
+![Alt Text](http://webtools.company_domain.net/graphviz/?
+digraph G {
+    aize ="4,4";
     main [shape=box];
     main -> parse [weight=8];
     parse -> execute;
@@ -16,7 +13,4 @@ custom_mark10
     make_string [label="make a string"];
     node [shape=box,style=filled,color=".7 .3 1.0"];
     execute -> compare;
-  }
-custom_mark10
-</details>
-```
+  })
